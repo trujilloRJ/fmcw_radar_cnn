@@ -2,7 +2,7 @@
 
 This repo contains the code to the blog post:
 
-LINK_HERE
+[FMCW radar target classification with a CNN](https://blogmljt.netlify.app/posts/radar-doppler/)
 
 ## Dataset
 
